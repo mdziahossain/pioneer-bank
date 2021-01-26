@@ -4,15 +4,16 @@
 }
 
 body {
-  /* background-color: cornflowerblue; */
+  background-color: #fefefe;
   padding: 100px;
+  font-family: Poppins, sans-serif;
 }
 
 .submit-area {
   margin-top: 50px;
   padding: 40px;
   border-radius: 10px;
-  box-shadow: 5px 5px 10px gray;
+  box-shadow: 5px 5px 15px gray;
 }
 
 #transaction-area {
